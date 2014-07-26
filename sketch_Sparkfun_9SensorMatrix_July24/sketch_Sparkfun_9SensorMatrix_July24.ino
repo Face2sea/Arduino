@@ -42,6 +42,7 @@ CapacitiveSensor   cs_3_8 = CapacitiveSensor(3,8);
 CapacitiveSensor   cs_3_9 = CapacitiveSensor(3,9);
 CapacitiveSensor   cs_3_10 = CapacitiveSensor(3,10);
 CapacitiveSensor   cs_3_11 = CapacitiveSensor(3,11);
+//CapacitiveSensor   cs_3_12 = CapacitiveSensor(3,12);
 
 const int numReadings = 10;
 const int numSensor = 9;
